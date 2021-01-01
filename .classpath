@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/a_maven/maven_repository/mysql/mysql-connector-java/8.0.16/mysql-connector-java-8.0.16.jar"/>
+	<classpathentry kind="lib" path="F:/Java-wrokspace/eclipse-workspace/BookCity/Web/WEB-INF/lib/druid-1.1.9.jar"/>
+	<classpathentry kind="lib" path="F:/GDPU/2020-2021大三第一学期/实训/jar包/datepicker.jar"/>
+	<classpathentry kind="lib" path="F:/GDPU/2020-2021大三第一学期/实训/jar包/swingx-core-1.6.2.jar"/>
+	<classpathentry kind="lib" path="F:/GDPU/2020-2021大三第一学期/实训/jar包/试试/jgoodies-common.jar"/>
+	<classpathentry kind="lib" path="F:/GDPU/2020-2021大三第一学期/实训/jar包/试试/jgoodies-common-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/GDPU/2020-2021大三第一学期/实训/jar包/试试/jgoodies-common-sources.jar"/>
+	<classpathentry kind="lib" path="F:/GDPU/2020-2021大三第一学期/实训/jar包/试试/jgoodies-forms.jar" sourcepath="F:/GDPU/2020-2021大三第一学期/实训/jar包/试试/jgoodies-forms-sources.jar">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/GDPU/2020-2021大三第一学期/实训/jar包/试试/jgoodies-forms-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/GDPU/2020-2021大三第一学期/实训/jar包/试试/jgoodies-forms-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
